@@ -51,7 +51,7 @@
 
 ### 🌐 Redes Sociais:
 <p>
-  • <a href="https://www.linkedin.com/in/bruno-nunes-14991425a/" target="_blank">LinkedIn</a> 
+  •  <a href="https://www.linkedin.com/in/bruno-nunes-14991425a/" target="_blank">LinkedIn</a> 
 </p>
 
 ---
