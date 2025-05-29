@@ -20,7 +20,8 @@
 
 ### 💻 Tecnologias e Ferramentas:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,js,git,github,vscode,windows,linux
+" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -51,7 +52,7 @@
 
 ### 🌐 Redes Sociais:
 <p>
-  <a href="https://www.linkedin.com/in/bruno-nunes-14991425a/" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/bruno-nunes-14991425a/" target="_blank">• LinkedIn</a> 
 </p>
 
 ---
