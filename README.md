@@ -13,7 +13,8 @@
   - **Linux e Windows**
   - **Segurança de rede: IPv4, IPv6**
   - **Python e JavaScript** para automação e web
-- 📫 Como me encontrar: [brunosnf.github.io](https://brunosnf.github.io) • ice000.ice000@proton.me
+- 📫 Como me encontrar: ice000.ice000@proton.me
+- Curriculo: [brunosnf.curriculo](https://brunosnf.github.io/curriculo-web/)
 
 ---
 
